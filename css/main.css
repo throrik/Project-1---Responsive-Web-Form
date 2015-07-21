@@ -1,0 +1,49 @@
+body,
+p {
+	font-family: helvetica, serif, sans-serif;
+}
+
+.main-container {
+	width: 80%;
+	max-width: 550px;
+	margin: auto;
+}
+
+.main-header,
+h1.header {
+	text-align: center;
+	padding-right: 50px;
+	font-size: 1.4em;
+	font-family: helvetica, serif, sans-serif;
+}
+
+.main-form {
+	padding: 5px;
+}
+
+form.contact-form {
+	padding: 5px;
+	display: inline;
+}
+
+input,
+textarea {
+	width: 80%;
+	display: block;
+	margin: 5px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	font-family: helvetica, serif, sans-serif;
+}
+
+textarea {
+	height: 300px;
+}
+
+footer,
+p.footer {
+	text-align: center;
+	padding-right: 50px;
+	font-size: 0.9em;
+	clear: both;
+}
